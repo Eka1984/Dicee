@@ -33,21 +33,26 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/dicee-flutter.git
+   git clone https://github.com/Eka1984/Dicee.git
+   ```
    
 2. **Navigate to the project directory:**
 
    ```bash
-   cd dicee-flutter
+   cd dicee
+   ```
    
 3.  **Install dependencies:**
 
    ```bash
    flutter pub get
+   ```
 
 4. **Run the app:**
+
    ```bash
    flutter run
+   ```  
 
 ## Usage
 
