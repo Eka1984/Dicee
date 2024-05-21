@@ -41,13 +41,13 @@ To run this project locally, follow these steps:
    ```bash
    cd dicee
    ```
-   
-3.  **Install dependencies:**
+      
+3. **Install dependencies:**
 
    ```bash
    flutter pub get
    ```
-
+   
 4. **Run the app:**
 
    ```bash
